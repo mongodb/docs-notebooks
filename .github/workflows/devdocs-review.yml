@@ -29,7 +29,7 @@ jobs:
             exit 0
           fi
 
-          # 2. Build the message and payload in one step
+          # 2. Build the message and payload in one step 
           SLACK_PAYLOAD=$(jq -n \
             --arg repo "$REPO_NAME" \
             --arg title "$PR_TITLE" \
