@@ -8,7 +8,7 @@ on:
   pull_request_target:
     types: [opened, edited]
   pull_request_review:
-    types: [submitted, edited]
+    types: [submitted, edited] 
 
 jobs:
   notify:
