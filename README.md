@@ -1,7 +1,8 @@
 # MongoDB Documentation Notebooks
 
 This repository contains Jupyter Notebooks that follow
-tutorials and code examples in the official [MongoDB Vector Search documentation](https://www.mongodb.com/docs/atlas/atlas-vector-search/vector-search-overview/). You can run, download, and modify these notebooks as you learn how to use MongoDB Vector Search for your use case.
+tutorials and code examples in the official [MongoDB Vector Search documentation](https://www.mongodb.com/docs/atlas/atlas-vector-search/vector-search-overview/). You can run, download, and modify these notebooks as
+you learn how to use MongoDB Vector Search for your use case.
 
 ## Overview
 
@@ -38,5 +39,4 @@ a star rating.
 
 ## Contributing
 
-We are not currently accepting public contributions to this repository at this
-time.
+We are not currently accepting public contributions to this repository at this time.
